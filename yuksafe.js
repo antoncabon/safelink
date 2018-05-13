@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="tips-for-making-quality-blogs.html"}
 if(x=="2"){xxx="blogging-tips-on-what-you-should-do-or.html"}
 if(x=="3"){xxx="using-google-adsense-without-complete.html"}
-if(x=="4"){xxx="why-playing-online-games-is-beneficial.html"}a_to_ve[i].href="https://link.yuksoftware.com/2015/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="why-playing-online-games-is-beneficial.html"}a_to_ve[i].href="https://link.yuksoftware.com/2015/09/"+xxx+"?link="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
